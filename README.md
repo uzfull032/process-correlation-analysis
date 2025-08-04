@@ -27,9 +27,12 @@ The wafer film quality was analyzed using Six Sigma statistical indicators as fo
 
 ### 💡 Simulation and Empirical Outcomes
 - Simulation Outcomes:
+
 https://github.com/uzfull032/FOWLP-Chamber-CFD-Study-1st?tab=readme-ov-file#%EF%B8%8F-representative-figures
 
 - Empirical Outcomes:
+
+https://github.com/uzfull032/FOWLP-SixSigma-QualityStudy?tab=readme-ov-file#-representative-figures
 
 
 ---
