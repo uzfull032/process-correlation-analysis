@@ -26,7 +26,11 @@ The wafer film quality was analyzed using Six Sigma statistical indicators as fo
 - For non-linear relationships, consider alternatives (e.g., Spearman’s rank correlation).
 
 ### 💡 Simulation and Empirical Outcomes
+- Simulation Outcomes:
 https://github.com/uzfull032/FOWLP-Chamber-CFD-Study-1st?tab=readme-ov-file#%EF%B8%8F-representative-figures
+
+- Empirical Outcomes:
+
 
 ---
 ## 🖼 View Graphs
