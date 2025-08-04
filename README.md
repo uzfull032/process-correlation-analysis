@@ -25,6 +25,9 @@ The wafer film quality was analyzed using Six Sigma statistical indicators as fo
 - A high correlation does not imply causation.
 - For non-linear relationships, consider alternatives (e.g., Spearman’s rank correlation).
 
+### 💡 Simulation and Empirical Outcomes
+
+
 ---
 ## 🖼 View Graphs
 
